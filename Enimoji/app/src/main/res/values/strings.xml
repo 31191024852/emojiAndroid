@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Enimoji</string>
+    <string name="ba_n_qua_ga_ha_y_th_la_i">Bạn quá gà. Hãy thử lại</string>
+    <string name="quay_la_i">Quay Lại</string>
+    <string name="ti_p_tu_c">Tiếp tục</string>
+    <string name="hay_l_m_ti_p_tu_c_na_o">Hay lắm. Tiếp tục nào</string>
+    <string name="string_ti_p_tu_c">Tiếp tục</string>
+</resources>
